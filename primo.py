@@ -1,3 +1,7 @@
 print("hello world")
 print("ciao mondo")
-print("bonjour to le monde")
+
+
+def somma(a, b):
+    return a + b
+print(somma(1, 2))
