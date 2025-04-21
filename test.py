@@ -10,3 +10,8 @@ list2.append(2)
 
 print(2 in list2)
 
+d=[3,4,5]
+e=[6,7,8]
+f=d+e
+print(f)
+
