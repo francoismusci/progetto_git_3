@@ -13,4 +13,9 @@ suffisso="km/h"
 print("la velocità misurata e' pari a {} {}".format(km_h,suffisso))
 
 
+j=3.6
+km_h1=40
+m_s1=km_h1/j
+
+print("la velocità misurata  e\' pari a {:.2f} in m/s".format(m_s1))
 
