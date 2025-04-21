@@ -1,0 +1,5 @@
+print("    1")
+print("\r")
+print("  2 3")
+print("\r")
+print("4 5 6")

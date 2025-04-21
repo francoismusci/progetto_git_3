@@ -1,0 +1,5 @@
+f=open('pattern.py','r')
+read_data_2=f.readline()
+#read_data=f.read()
+print(read_data_2)
+f.close()
